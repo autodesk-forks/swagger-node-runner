@@ -13,6 +13,8 @@ straightforward as possible.
 
 ### Changed
 
+- [docs: fixed license badge](https://github.com/autodesk-forks/swagger-node-runner/pull/6)
+
 ### Fixed
 
 ## [0.8.1] - 2023-05-11
