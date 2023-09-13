@@ -15,7 +15,7 @@ straightforward as possible.
 
 ### Fixed
 
-## [0.9.0] - 2023-05-11
+## [0.9.0] - 2023-09-13
 
 ### Changed
 
